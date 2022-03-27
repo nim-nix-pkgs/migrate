@@ -11,6 +11,7 @@
   inputs.src-migrate-master.ref   = "refs/heads/master";
   inputs.src-migrate-master.owner = "euantorano";
   inputs.src-migrate-master.repo  = "migrate.nim";
+  inputs.src-migrate-master.dir   = "";
   inputs.src-migrate-master.type  = "github";
   
   inputs."docopt".owner = "nim-nix-pkgs";
