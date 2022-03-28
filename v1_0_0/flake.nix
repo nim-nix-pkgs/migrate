@@ -11,7 +11,6 @@
   inputs.src-migrate-v1_0_0.ref   = "refs/tags/v1.0.0";
   inputs.src-migrate-v1_0_0.owner = "euantorano";
   inputs.src-migrate-v1_0_0.repo  = "migrate.nim";
-  inputs.src-migrate-v1_0_0.dir   = "";
   inputs.src-migrate-v1_0_0.type  = "github";
   
   inputs."docopt".owner = "nim-nix-pkgs";
